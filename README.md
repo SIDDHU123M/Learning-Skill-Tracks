@@ -23,7 +23,7 @@ Each learning path includes detailed modules, projects, and use cases that help 
 
 ## Language Tracks
 
-### 1. **Python**
+### 1. **[Python](Python.md)**
 
 The Python track is designed to take you from beginner-level Python programming to advanced topics like object-oriented programming, data science, web development, and machine learning.
 
@@ -32,7 +32,7 @@ The Python track is designed to take you from beginner-level Python programming 
 - **Advanced**: Master asynchronous programming, decorators, generators, and advanced libraries.
 - **Projects**: Build data analysis scripts, web apps using Flask or Django, and machine learning models.
 
-### 2. **JavaScript**
+### 2. **[JavaScript](JavaScript.md)**
 
 Master JavaScript from the ground up, and advance to modern libraries and frameworks like React and Node.js for full-stack development.
 
@@ -41,7 +41,7 @@ Master JavaScript from the ground up, and advance to modern libraries and framew
 - **Advanced**: Dive into ES6+, asynchronous programming, and building complex web applications using Node.js and React.
 - **Projects**: Build interactive web pages, server-side applications, and single-page applications (SPAs).
 
-### 3. **SQL**
+### 3. **[SQL](SQL.md)**
 
 SQL is crucial for managing relational databases. This track covers everything from basic queries to advanced database management techniques.
 
@@ -50,7 +50,7 @@ SQL is crucial for managing relational databases. This track covers everything f
 - **Advanced**: Learn about query optimization, performance tuning, and advanced database concepts like sharding and partitioning.
 - **Projects**: Create and manage databases, build complex queries for data analysis, and optimize database performance.
 
-### 4. **Go**
+### 4. **[Go](Go-Lang.md)**
 
 Go (or Golang) is known for its simplicity and efficiency, making it ideal for building scalable, concurrent applications.
 
@@ -59,7 +59,7 @@ Go (or Golang) is known for its simplicity and efficiency, making it ideal for b
 - **Advanced**: Master Go’s advanced features like interfaces, memory management, and building web servers.
 - **Projects**: Build high-performance servers, networked applications, and concurrent systems.
 
-### 5. **Bash/Shell/Linux**
+### 5. **[Bash/Shell/Linux](Bash-Shell-linux.md)**
 
 Learn the essentials of shell scripting and Linux commands, enabling you to automate tasks and work efficiently with the Linux command line.
 
@@ -68,7 +68,7 @@ Learn the essentials of shell scripting and Linux commands, enabling you to auto
 - **Advanced**: Automate complex tasks, manage system processes, and optimize workflows.
 - **Projects**: Write shell scripts for system administration, process automation, and text processing.
 
-### 6. **React**
+### 6. **[React](React.md)**
 
 React is one of the most popular JavaScript libraries for building interactive user interfaces. This track takes you through the fundamental concepts of React and its advanced features.
 
